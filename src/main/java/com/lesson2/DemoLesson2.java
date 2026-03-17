@@ -44,7 +44,6 @@ public class DemoLesson2 {
                             System.out::println,
                             () -> System.out.println("Книга отсутствует")
                     );
-            System.out.println();
         } catch (FileNotFoundException e){
             System.out.println(e.getMessage());
         }
