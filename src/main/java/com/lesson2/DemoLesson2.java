@@ -12,7 +12,7 @@ public class DemoLesson2 {
     public static void main2(){
         List<Student> students = new ArrayList<>();
         try {
-            JsonReader reader = Json.createReader(new FileReader("A:/Projekts/untitled1/src/main/java/com/main/lesson2/students.json"));
+            JsonReader reader = Json.createReader(new FileReader("A:/Projekts/untitled1/src/main/java/com/lesson2/students.json"));
             JsonObject root = reader.readObject();
             JsonArray studentsArray = root.getJsonArray("students");
             for (JsonValue studentValue : studentsArray) {
@@ -46,10 +46,6 @@ public class DemoLesson2 {
                     );
             System.out.println();
         } catch (FileNotFoundException e){
-            System.out.println(e.getMessage());
-        } catch (NullPointerException e){
-            System.out.println(e.getMessage());
-        } catch (IllegalArgumentException e){
             System.out.println(e.getMessage());
         }
     }
