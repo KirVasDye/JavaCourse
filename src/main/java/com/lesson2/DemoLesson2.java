@@ -1,4 +1,4 @@
-package com.main.lesson2;
+package com.lesson2;
 
 import javax.json.*;
 import java.io.FileNotFoundException;

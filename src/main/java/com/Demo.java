@@ -1,10 +1,7 @@
-package com.main;
+package com;
 
-import com.main.lesson1.DemoLeson1;
-import com.main.lesson2.DemoLesson2;
-
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import com.lesson1.DemoLeson1;
+import com.lesson2.DemoLesson2;
 
 public class Demo {
     public static void main(String[] args){

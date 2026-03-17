@@ -1,4 +1,4 @@
-package com.main.lesson2;
+package com.lesson2;
 import java.util.Objects;
 
 public class Book {
