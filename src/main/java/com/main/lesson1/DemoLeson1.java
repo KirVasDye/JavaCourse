@@ -3,8 +3,8 @@ package com.main.lesson1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Test {
-    public static void main(String[] args){
+public class DemoLeson1 {
+    public static void main1(){
         String name = "Kirill";
         String id1 = "1234565";
         String id2 = "1233e";

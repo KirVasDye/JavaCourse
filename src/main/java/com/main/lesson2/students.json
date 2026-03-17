@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "name": "Kirill",
+      "books": [
+        {"title": "Java Basics", "author": "James Gosling", "pages": 300, "year": 2005},
+        {"title": "Clean Code", "author": "Robert Martin", "pages": 450, "year": 2008},
+        {"title": "Effective Java", "author": "Joshua Bloch", "pages": 380, "year": 2018},
+        {"title": "Design Patterns", "author": "GoF", "pages": 500, "year": 1994},
+        {"title": "Head First Java", "author": "Kathy Sierra", "pages": 420, "year": 2003}
+      ]
+    },
+    {
+      "name": "Ivan",
+      "books": [
+        {"title": "Java Concurrency", "author": "Brian Goetz", "pages": 425, "year": 2006},
+        {"title": "Spring in Action", "author": "Craig Walls", "pages": 350, "year": 2018},
+        {"title": "Algorithms", "author": "Robert Sedgewick", "pages": 550, "year": 2011},
+        {"title": "Refactoring", "author": "Martin Fowler", "pages": 460, "year": 1999},
+        {"title": "Microservices Patterns", "author": "Chris Richardson", "pages": 520, "year": 2019}
+      ]
+    },
+    {
+      "name": "Dmitry",
+      "books": [
+        {"title": "Computer Networks", "author": "Andrew Tanenbaum", "pages": 600, "year": 2010},
+        {"title": "Operating Systems", "author": "Abraham Silberschatz", "pages": 720, "year": 2012},
+        {"title": "Modern Java", "author": "Nicolai Parlog", "pages": 410, "year": 2020},
+        {"title": "Data Structures", "author": "Mark Allen Weiss", "pages": 480, "year": 2009},
+        {"title": "Clean Architecture", "author": "Robert Martin", "pages": 430, "year": 2017}
+      ]
+    },
+    {
+      "name": "Olga",
+      "books": [
+        {"title": "The Pragmatic Programmer", "author": "Andrew Hunt", "pages": 352, "year": 1999},
+        {"title": "Domain Driven Design", "author": "Eric Evans", "pages": 560, "year": 2003},
+        {"title": "Java Performance", "author": "Scott Oaks", "pages": 390, "year": 2014},
+        {"title": "Spring Boot in Action", "author": "Craig Walls", "pages": 320, "year": 2016},
+        {"title": "Kubernetes Up and Running", "author": "Kelsey Hightower", "pages": 330, "year": 2018}
+      ]
+    },
+    {
+      "name": "Sergey",
+      "books": [
+        {"title": "Artificial Intelligence", "author": "Stuart Russell", "pages": 720, "year": 2016},
+        {"title": "Machine Learning", "author": "Tom Mitchell", "pages": 450, "year": 1997},
+        {"title": "Deep Learning", "author": "Ian Goodfellow", "pages": 775, "year": 2016},
+        {"title": "Hands-On Machine Learning", "author": "Aurelien Geron", "pages": 500, "year": 2019},
+        {"title": "Pattern Recognition", "author": "Christopher Bishop", "pages": 600, "year": 2006}
+      ]
+    }
+  ]
+}
