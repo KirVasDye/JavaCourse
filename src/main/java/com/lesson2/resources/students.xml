@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+
+    <student>
+        <name>Kirill</name>
+        <books>
+            <book>
+                <title>Java Basics</title>
+                <author>James Gosling</author>
+                <pages>300</pages>
+                <year>2005</year>
+            </book>
+            <book>
+                <title>Clean Code</title>
+                <author>Robert Martin</author>
+                <pages>450</pages>
+                <year>2008</year>
+            </book>
+            <book>
+                <title>Effective Java</title>
+                <author>Joshua Bloch</author>
+                <pages>380</pages>
+                <year>2018</year>
+            </book>
+            <book>
+                <title>Design Patterns</title>
+                <author>GoF</author>
+                <pages>500</pages>
+                <year>1994</year>
+            </book>
+            <book>
+                <title>Head First Java</title>
+                <author>Kathy Sierra</author>
+                <pages>420</pages>
+                <year>2003</year>
+            </book>
+        </books>
+    </student>
+
+    <student>
+        <name>Ivan</name>
+        <books>
+            <book>
+                <title>Java Concurrency</title>
+                <author>Brian Goetz</author>
+                <pages>425</pages>
+                <year>2006</year>
+            </book>
+            <book>
+                <title>Spring in Action</title>
+                <author>Craig Walls</author>
+                <pages>350</pages>
+                <year>2018</year>
+            </book>
+            <book>
+                <title>Algorithms</title>
+                <author>Robert Sedgewick</author>
+                <pages>550</pages>
+                <year>2011</year>
+            </book>
+            <book>
+                <title>Refactoring</title>
+                <author>Martin Fowler</author>
+                <pages>460</pages>
+                <year>1999</year>
+            </book>
+            <book>
+                <title>Microservices Patterns</title>
+                <author>Chris Richardson</author>
+                <pages>520</pages>
+                <year>2019</year>
+            </book>
+        </books>
+    </student>
+
+    <student>
+        <name>Dmitry</name>
+        <books>
+            <book>
+                <title>Computer Networks</title>
+                <author>Andrew Tanenbaum</author>
+                <pages>600</pages>
+                <year>2010</year>
+            </book>
+            <book>
+                <title>Operating Systems</title>
+                <author>Abraham Silberschatz</author>
+                <pages>720</pages>
+                <year>2012</year>
+            </book>
+            <book>
+                <title>Modern Java</title>
+                <author>Nicolai Parlog</author>
+                <pages>410</pages>
+                <year>2020</year>
+            </book>
+            <book>
+                <title>Data Structures</title>
+                <author>Mark Allen Weiss</author>
+                <pages>480</pages>
+                <year>2009</year>
+            </book>
+            <book>
+                <title>Clean Architecture</title>
+                <author>Robert Martin</author>
+                <pages>430</pages>
+                <year>2017</year>
+            </book>
+        </books>
+    </student>
+
+    <student>
+        <name>Olga</name>
+        <books>
+            <book>
+                <title>The Pragmatic Programmer</title>
+                <author>Andrew Hunt</author>
+                <pages>352</pages>
+                <year>1999</year>
+            </book>
+            <book>
+                <title>Domain Driven Design</title>
+                <author>Eric Evans</author>
+                <pages>560</pages>
+                <year>2003</year>
+            </book>
+            <book>
+                <title>Java Performance</title>
+                <author>Scott Oaks</author>
+                <pages>390</pages>
+                <year>2014</year>
+            </book>
+            <book>
+                <title>Spring Boot in Action</title>
+                <author>Craig Walls</author>
+                <pages>320</pages>
+                <year>2016</year>
+            </book>
+            <book>
+                <title>Kubernetes Up and Running</title>
+                <author>Kelsey Hightower</author>
+                <pages>330</pages>
+                <year>2018</year>
+            </book>
+        </books>
+    </student>
+
+    <student>
+        <name>Sergey</name>
+        <books>
+            <book>
+                <title>Artificial Intelligence</title>
+                <author>Stuart Russell</author>
+                <pages>720</pages>
+                <year>2016</year>
+            </book>
+            <book>
+                <title>Machine Learning</title>
+                <author>Tom Mitchell</author>
+                <pages>450</pages>
+                <year>1997</year>
+            </book>
+            <book>
+                <title>Deep Learning</title>
+                <author>Ian Goodfellow</author>
+                <pages>775</pages>
+                <year>2016</year>
+            </book>
+            <book>
+                <title>Hands-On Machine Learning</title>
+                <author>Aurelien Geron</author>
+                <pages>500</pages>
+                <year>2019</year>
+            </book>
+            <book>
+                <title>Pattern Recognition</title>
+                <author>Christopher Bishop</author>
+                <pages>600</pages>
+                <year>2006</year>
+            </book>
+        </books>
+    </student>
+
+</students>

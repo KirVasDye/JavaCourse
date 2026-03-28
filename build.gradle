@@ -13,5 +13,6 @@ dependencies {
     implementation "org.jetbrains:annotations:${annotationsVersion}"
     testImplementation "junit:junit:${junitVersion}"
     implementation "com.fasterxml.jackson.core:jackson-databind:${jacksonVersion}"
+    implementation "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:${jacksonVersion}"
     implementation "org.glassfish:javax.json:${javaxJsonVersion}"
 }
