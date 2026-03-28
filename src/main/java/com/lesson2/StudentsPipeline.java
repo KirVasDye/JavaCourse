@@ -5,7 +5,7 @@ import java.util.List;
 
 public class StudentsPipeline {
 
-    public static void performPipeline(List<Student> students){
+    public void performPipeline(List<Student> students) {
 
         students.stream()
                 .peek(s -> System.out.println("Student: " + s))

@@ -1,2 +1,0 @@
-com/main/Main.java
- com.main.Main

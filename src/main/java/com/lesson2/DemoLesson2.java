@@ -5,15 +5,16 @@ import java.util.List;
 
 public class DemoLesson2 {
 
-    public static void main(String[] args){
-
-        System.out.println("Одним стримом:");
+    public static void main(String[] args) {
 
         StudentService service = new StudentService();
 
+        StudentsPipeline pipeline = new StudentsPipeline();
+
         List<Student> students = service.loadStudents(args[0]);
 
-        StudentsPipeline.performPipeline(students);
+        pipeline.performPipeline(students);
+
     }
 
 }

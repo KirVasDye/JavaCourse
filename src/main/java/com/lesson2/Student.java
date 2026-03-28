@@ -1,4 +1,5 @@
 package com.lesson2;
+
 import java.util.List;
 
 public class Student {
@@ -11,7 +12,8 @@ public class Student {
         this.books = books;
     }
 
-    public Student() {}
+    public Student() {
+    }
 
     public List<Book> getBooks() {
         return books;
